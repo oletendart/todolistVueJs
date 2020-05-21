@@ -1,5 +1,19 @@
 # todolist
 
+## Création d'une Todolist
+
+### Outils :
+* VueJs
+* Babel
+* Prettier 
+
+### Compétences : 
+* Création d'un Wireframe
+* Création d'un UML
+* Création du front de la todolist 
+* Création du backend de la todolist
+* Lier le front et le back
+
 ## Project setup
 ```
 npm install
